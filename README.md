@@ -11,3 +11,6 @@ Burp Suite Temp/*.tmp files Recovery Recover requests, responses and strings fro
 * You can copy or save a single record, or export everything shown as JSON. The filter box searches host and URL.
 
 All parsing happens in your browser and nothing is uploaded, which matters for client traffic.
+
+# Live
+https://saphir.berlin/BurpTempRecovery.html
