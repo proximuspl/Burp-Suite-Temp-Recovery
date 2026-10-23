@@ -14,3 +14,7 @@ All parsing happens in your browser and nothing is uploaded, which matters for c
 
 # Live
 https://saphir.berlin/BurpTempRecovery.html
+
+# Screenshot
+
+<img width="1623" height="1536" alt="Burp Suite Temp Tmp Recovery" src="https://github.com/user-attachments/assets/640a9f5e-ac93-4dbe-8c8d-d0563806037b" />
